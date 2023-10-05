@@ -1,5 +1,5 @@
 
-# ENTREGA #1
+# ENTREGA #2
 
 Curso de Javascript
 
