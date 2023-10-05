@@ -10,7 +10,7 @@ Curso de Javascript
 
 ## Documentation
 
-El presente contiene un juego de adivina el número.
+El presente contiene un juego del ahorcado.
 
 
 
